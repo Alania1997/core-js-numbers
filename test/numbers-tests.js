@@ -922,3 +922,7 @@ describe('core-js-numbers-tasks optimal implementation', () => {
     );
   });
 });
+
+function concatenateStrings(value1, value2) {
+  return value1 + value2;
+}
